@@ -39,10 +39,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="190" as="sourcePoint" />
             <mxPoint x="160" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="160" />
+              <mxPoint x="160" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-15" value="状态 s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="213" y="170" width="40" height="20" as="geometry" />
+          <mxGeometry x="193" y="170" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-16" value="奖励 r" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2">
           <mxGeometry x="0.1861" y="-25" width="50" height="50" relative="1" as="geometry">
