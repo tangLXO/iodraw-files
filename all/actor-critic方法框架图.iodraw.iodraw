@@ -62,16 +62,15 @@
             <Array as="points">
               <mxPoint x="230" y="110" />
               <mxPoint x="230" y="70" />
-              <mxPoint x="325" y="70" />
-              <mxPoint x="325" y="90" />
+              <mxPoint x="305" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5KQOUJcsiyPbRzNeSp9W-2" value="Critic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5KQOUJcsiyPbRzNeSp9W-3" value="Critic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="40" height="20" as="geometry" />
+        <mxCell id="5KQOUJcsiyPbRzNeSp9W-3" value="Actor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="70" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
