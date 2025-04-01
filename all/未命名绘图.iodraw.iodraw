@@ -12,11 +12,10 @@
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-1" value="策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-25" value="TD误差" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-2" target="7-SPeHxKLkNSVCIXe4tQ-1">
-          <mxGeometry x="-0.3494" y="20" relative="1" as="geometry">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-25" value="TD误差" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-2" target="7-SPeHxKLkNSVCIXe4tQ-1">
+          <mxGeometry x="-0.1802" y="20" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="110" />
-              <mxPoint x="390" y="30" />
+              <mxPoint x="325" y="30" />
               <mxPoint x="140" y="30" />
             </Array>
             <mxPoint as="offset" />
@@ -27,12 +26,6 @@
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-3" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="193" y="220" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-1" target="7-SPeHxKLkNSVCIXe4tQ-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="150" as="sourcePoint" />
-            <mxPoint x="270" y="120" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
