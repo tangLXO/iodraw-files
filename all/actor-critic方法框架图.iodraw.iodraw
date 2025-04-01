@@ -66,8 +66,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KQOUJcsiyPbRzNeSp9W-2" value="状态 s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="5KQOUJcsiyPbRzNeSp9W-2" value="Critic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5KQOUJcsiyPbRzNeSp9W-3" value="Critic" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
