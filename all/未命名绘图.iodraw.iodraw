@@ -17,7 +17,7 @@
           <mxGeometry x="770" y="386" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-6" value="智能体2 Actor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="679" width="161" height="49" as="geometry" />
+          <mxGeometry x="282" y="435" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-7" value="智能体N Actor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="669" y="679" width="162" height="49" as="geometry" />
