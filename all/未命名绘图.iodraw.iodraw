@@ -1,0 +1,13 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="4a3S55pFvJEgNnIi9Z7s">
+    <mxGraphModel dx="866" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5zF0nXYOwCmaYBDMzSAr-1" value="graph TD&#xa;    subgraph 集中式训练&#xa;        CT[中央训练器] --&gt;|分发策略参数| Actor1&#xa;        CT --&gt;|分发策略参数| Actor2&#xa;        CT --&gt;|分发策略参数| ActorN&#xa;        CT -.-&gt;|全局状态信息| Critic[中央Critic网络]&#xa;        &#xa;        Experience1[智能体1经验] --&gt; RB[经验池]&#xa;        Experience2[智能体2经验] --&gt; RB&#xa;        ExperienceN[智能体N经验] --&gt; RB&#xa;        RB --&gt;|采样数据| CT&#xa;        &#xa;        Critic --&gt;|计算全局Q值| CT&#xa;        CT --&gt;|策略梯度更新| Actor1&#xa;        CT --&gt;|策略梯度更新| Actor2&#xa;        CT --&gt;|策略梯度更新| ActorN&#xa;    end&#xa;&#xa;&#xa;    subgraph 分布式执行&#xa;        Actor1[智能体1 Actor] --&gt;|动作a1| Env[共享环境]&#xa;        Actor2[智能体2 Actor] --&gt;|动作a2| Env&#xa;        ActorN[智能体N Actor] --&gt;|动作an| Env&#xa;        Env --&gt;|局部观察o1| Actor1&#xa;        Env --&gt;|局部观察o2| Actor2&#xa;        Env --&gt;|局部观察on| ActorN&#xa;    end&#xa;&#xa;&#xa;    style CT fill:#FFE4B5,stroke:#FFA500&#xa;    style Critic fill:#D8BFD8,stroke:#9932CC&#xa;    style RB fill:#E0FFFF,stroke:#20B2AA&#xa;    style Env fill:#98FB98,stroke:#228B22" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="320" height="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
