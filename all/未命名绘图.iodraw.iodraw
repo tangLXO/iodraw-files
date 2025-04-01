@@ -23,7 +23,7 @@
           <mxGeometry x="669" y="679" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-8" value="中央Critic网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="184" y="386" width="163" height="49" as="geometry" />
+          <mxGeometry x="205" y="216" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-9" value="智能体1经验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="45" width="150" height="49" as="geometry" />
