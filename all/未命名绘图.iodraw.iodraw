@@ -14,7 +14,7 @@
           <mxGeometry x="445" y="265" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-5" value="智能体1 Actor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="386" width="161" height="49" as="geometry" />
+          <mxGeometry x="690" y="430" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-6" value="智能体2 Actor" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="282" y="435" width="161" height="49" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="853" y="45" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-13" value="共享环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1096" y="533" width="124" height="49" as="geometry" />
+          <mxGeometry x="490" y="558" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-14" value="分发策略参数" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.35;entryY=0.01;rounded=0;" edge="1" parent="1" source="5zF0nXYOwCmaYBDMzSAr-4" target="5zF0nXYOwCmaYBDMzSAr-5">
           <mxGeometry relative="1" as="geometry">
@@ -57,7 +57,6 @@
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-16" value="分发策略参数" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="5zF0nXYOwCmaYBDMzSAr-4" target="5zF0nXYOwCmaYBDMzSAr-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="614" y="350" />
               <mxPoint x="515" y="390" />
             </Array>
           </mxGeometry>
@@ -120,7 +119,6 @@
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-25" value="策略梯度更新" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.46;entryY=0;rounded=0;" edge="1" parent="1" source="5zF0nXYOwCmaYBDMzSAr-4" target="5zF0nXYOwCmaYBDMzSAr-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="350" />
               <mxPoint x="580" y="400" />
             </Array>
           </mxGeometry>
