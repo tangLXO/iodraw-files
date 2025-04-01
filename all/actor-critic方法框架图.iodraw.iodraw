@@ -4,27 +4,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-24" value="动作 a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-1" target="7-SPeHxKLkNSVCIXe4tQ-3" edge="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-24" value="动作 a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-1" target="7-SPeHxKLkNSVCIXe4tQ-3" edge="1">
           <mxGeometry x="-0.3496" y="-20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-1" value="策略" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-1" value="策略" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="100" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-25" value="TD误差" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-2" target="7-SPeHxKLkNSVCIXe4tQ-1" edge="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-25" value="TD误差" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-2" target="7-SPeHxKLkNSVCIXe4tQ-1" edge="1">
           <mxGeometry x="-0.5238" y="-20" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-2" value="值函数" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-2" value="值函数" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="285" y="90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-3" value="环境" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-3" value="环境" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="193" y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2" edge="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="230" as="sourcePoint" />
             <mxPoint x="285" y="180" as="targetPoint" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" target="7-SPeHxKLkNSVCIXe4tQ-1" edge="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="7-SPeHxKLkNSVCIXe4tQ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="160" as="sourcePoint" />
             <mxPoint x="160" y="170" as="targetPoint" />
@@ -45,17 +45,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-15" value="状态 s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-15" value="状态 s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="213" y="140" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-16" value="奖励 r" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;align=center;fontFamily=Times New Roman;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2" edge="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-16" value="奖励 r" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2" edge="1">
           <mxGeometry x="0.3443" y="-25" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="260" as="sourcePoint" />
             <mxPoint x="350" y="210" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-29" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" target="7-SPeHxKLkNSVCIXe4tQ-2" edge="1">
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-29" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="7-SPeHxKLkNSVCIXe4tQ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="110" as="sourcePoint" />
             <mxPoint x="327.48" y="82" as="targetPoint" />
