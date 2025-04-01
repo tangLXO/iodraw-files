@@ -8,10 +8,10 @@
           <mxGeometry x="50" y="90" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-2" value="值函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="401" y="93" width="109" height="49" as="geometry" />
+          <mxGeometry x="212" y="100" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-3" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="212" y="20" width="92" height="49" as="geometry" />
+          <mxGeometry x="390" y="80" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-4" value="动作 a" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-1" target="7-SPeHxKLkNSVCIXe4tQ-3">
           <mxGeometry relative="1" as="geometry">
