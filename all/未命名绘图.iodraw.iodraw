@@ -5,62 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-1" value="策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="90" width="93" height="49" as="geometry" />
+          <mxGeometry x="40" y="100" width="93" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-2" value="值函数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212" y="100" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-3" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-4" value="动作 a" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-1" target="7-SPeHxKLkNSVCIXe4tQ-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="162" y="45" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-5" value="奖励 r" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0.26;entryY=-0.01;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="353" y="23" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-6" value="状态 s" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.05;entryY=-0.01;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-3" target="7-SPeHxKLkNSVCIXe4tQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="353" y="66" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-7" value="Critic" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=1;entryY=0.71;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-2" target="7-SPeHxKLkNSVCIXe4tQ-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="353" y="160" />
-              <mxPoint x="162" y="160" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-8" value="TD误差" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.89;entryY=0.99;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-2" target="7-SPeHxKLkNSVCIXe4tQ-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="353" y="202" />
-              <mxPoint x="210" y="270" />
-              <mxPoint x="260" y="202" />
-              <mxPoint x="210" y="200" />
-              <mxPoint x="190" y="250" />
-              <mxPoint x="162" y="202" />
-              <mxPoint x="160" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-9" value="Actor" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="7-SPeHxKLkNSVCIXe4tQ-1" target="7-SPeHxKLkNSVCIXe4tQ-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="162" y="117" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="410" y="100" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
