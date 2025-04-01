@@ -39,6 +39,12 @@
         <mxCell id="7-SPeHxKLkNSVCIXe4tQ-15" value="状态s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="219" y="170" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="7-SPeHxKLkNSVCIXe4tQ-16" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="260" as="sourcePoint" />
+            <mxPoint x="340" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
