@@ -50,8 +50,8 @@
         <mxCell id="5zF0nXYOwCmaYBDMzSAr-15" value="分发策略参数" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="5zF0nXYOwCmaYBDMzSAr-4" target="5zF0nXYOwCmaYBDMzSAr-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="113" y="350" />
-              <mxPoint x="113" y="643" />
+              <mxPoint x="240" y="390" />
+              <mxPoint x="282" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="416" y="350" />
-              <mxPoint x="416" y="643" />
+              <mxPoint x="400" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
