@@ -4,6 +4,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jszifca_b0TSDSFu4Yfm-1" value="Agent 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="63" width="115" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-2" value="Agent 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="475" y="20" width="115" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-3" value="..." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="39" y="162" width="78" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-4" value="Agent n" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="475" y="119" width="116" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-5" value="Environment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="63" width="151" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-6" value="a^1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.02;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="jszifca_b0TSDSFu4Yfm-1" target="jszifca_b0TSDSFu4Yfm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="182" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-7" value="s, r^1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.5;rounded=0;" edge="1" parent="1" source="jszifca_b0TSDSFu4Yfm-5" target="jszifca_b0TSDSFu4Yfm-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-8" value="a^2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=1;entryY=0.23;rounded=0;" edge="1" parent="1" source="jszifca_b0TSDSFu4Yfm-2" target="jszifca_b0TSDSFu4Yfm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="66" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-9" value="s, r^2" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0;entryX=0;entryY=0.26;rounded=0;" edge="1" parent="1" source="jszifca_b0TSDSFu4Yfm-5" target="jszifca_b0TSDSFu4Yfm-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-10" value="a^n" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.76;entryY=0.99;rounded=0;" edge="1" parent="1" source="jszifca_b0TSDSFu4Yfm-4" target="jszifca_b0TSDSFu4Yfm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-11" value="s, r^n" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="1" source="jszifca_b0TSDSFu4Yfm-5" target="jszifca_b0TSDSFu4Yfm-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
