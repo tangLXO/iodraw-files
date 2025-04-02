@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jszifca_b0TSDSFu4Yfm-1" value="Agent 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="170" width="115" height="49" as="geometry" />
+        <mxCell id="jszifca_b0TSDSFu4Yfm-1" value="智能体 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jszifca_b0TSDSFu4Yfm-5" value="环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="202" y="280" width="118" height="39" as="geometry" />
