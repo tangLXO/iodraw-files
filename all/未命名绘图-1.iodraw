@@ -13,6 +13,9 @@
         <mxCell id="jszifca_b0TSDSFu4Yfm-16" value="智能体 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jszifca_b0TSDSFu4Yfm-17" value="智能体 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
