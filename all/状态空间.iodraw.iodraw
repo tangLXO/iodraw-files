@@ -112,8 +112,8 @@
         <mxCell id="NhfakQ8Kv5xpzlLNju2O-84" value="智能体2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="481.28000000000003" width="31" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NhfakQ8Kv5xpzlLNju2O-85" value="智能体i" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="369" y="660" width="31" height="10" as="geometry" />
+        <mxCell id="NhfakQ8Kv5xpzlLNju2O-85" value="智能体&lt;font face=&quot;Times New Roman&quot;&gt;i&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="289" y="528.71" width="31" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NhfakQ8Kv5xpzlLNju2O-86" value="目标物" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="383" y="465" width="31" height="10" as="geometry" />
