@@ -43,6 +43,9 @@
         <mxCell id="NhfakQ8Kv5xpzlLNju2O-19" value="x" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NhfakQ8Kv5xpzlLNju2O-7">
           <mxGeometry x="280" y="160" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="NhfakQ8Kv5xpzlLNju2O-28" value="y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NhfakQ8Kv5xpzlLNju2O-7">
+          <mxGeometry x="120" y="30" width="10" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="NhfakQ8Kv5xpzlLNju2O-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=none;fillColor=none;strokeColor=#3333FF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="20" height="20" as="geometry" />
         </mxCell>
@@ -51,9 +54,6 @@
             <mxPoint x="320" y="520" as="sourcePoint" />
             <mxPoint x="370" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NhfakQ8Kv5xpzlLNju2O-28" value="y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="350" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
