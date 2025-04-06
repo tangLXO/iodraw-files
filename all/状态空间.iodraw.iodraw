@@ -113,10 +113,13 @@
           <mxGeometry x="234.5" y="481.28000000000003" width="31" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NhfakQ8Kv5xpzlLNju2O-85" value="智能体&lt;font face=&quot;Times New Roman&quot;&gt;i&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="289" y="528.71" width="31" height="10" as="geometry" />
+          <mxGeometry x="279" y="530" width="31" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NhfakQ8Kv5xpzlLNju2O-86" value="目标物" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="383" y="465" width="31" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="NhfakQ8Kv5xpzlLNju2O-87" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="231" y="355" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
