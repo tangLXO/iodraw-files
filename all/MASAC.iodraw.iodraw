@@ -71,8 +71,7 @@
             <mxPoint x="384.8" y="210.94" as="sourcePoint" />
             <mxPoint x="384.892" y="290.00399999999996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="385" y="251" />
-              <mxPoint x="385" y="251" />
+              <mxPoint x="385" y="271" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -85,7 +84,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="494.77" y="210" as="sourcePoint" />
             <mxPoint x="494.76" y="289" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="495" y="270" />
+              <mxPoint x="495" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NtsoI97czugk_IhMHN-1-15" value="a&lt;span style=&quot;font-size: 5px;&quot;&gt;n&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NtsoI97czugk_IhMHN-1-14" vertex="1" connectable="0">
@@ -98,8 +100,8 @@
             <mxPoint x="504.76" y="210.94" as="sourcePoint" />
             <mxPoint x="504.8520000000001" y="290.00399999999996" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="505" y="251" />
-              <mxPoint x="505" y="251" />
+              <mxPoint x="505" y="270" />
+              <mxPoint x="505" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
