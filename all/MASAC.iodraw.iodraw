@@ -149,18 +149,12 @@
         <mxCell id="377A2Pjgdrbs9z6RaY6A-8" value="s,a,r,s&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;′&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="377A2Pjgdrbs9z6RaY6A-10" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="377A2Pjgdrbs9z6RaY6A-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.179;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="210" as="sourcePoint" />
-            <mxPoint x="410" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="377A2Pjgdrbs9z6RaY6A-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="120" as="sourcePoint" />
-            <mxPoint x="330" y="170" as="targetPoint" />
+            <mxPoint x="369.3799999999999" y="110.56" as="sourcePoint" />
+            <mxPoint x="320" y="170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="130" />
+              <mxPoint x="350" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
