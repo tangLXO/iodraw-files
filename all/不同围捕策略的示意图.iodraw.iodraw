@@ -76,10 +76,10 @@
             <mxPoint x="570" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="530jFakpqghweuBRmFN9-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="530jFakpqghweuBRmFN9-19" target="530jFakpqghweuBRmFN9-22">
+        <mxCell id="530jFakpqghweuBRmFN9-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="530jFakpqghweuBRmFN9-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="380" as="sourcePoint" />
-            <mxPoint x="692" y="240" as="targetPoint" />
+            <mxPoint x="640" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
